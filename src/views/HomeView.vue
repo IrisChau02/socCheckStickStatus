@@ -9,6 +9,7 @@
           </div>
           <div class="card-body" style="font-size: 24px;">
             <p>現時籌後正派到 xxx - xxx</p>
+            <p>現在可排隊進場籌號為：xxxxxx</p>
             <p>請各位耐心等候，謝謝。 </p>
           </div>
         </div>
