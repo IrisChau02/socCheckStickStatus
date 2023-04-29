@@ -5,12 +5,12 @@
         <div class="container-fluid h-75 d-flex align-items-center justify-content-center">
           <div class="card text-center" style="width: 30rem">
             <div class="card-header" style="font-size: 32px;">
-              余月宴籌號進度
+              ☾余月宴籌號進度☾
             </div>
             <div class="card-body" style="font-size: 24px;">
               <p>現時籌號正派到 xxx - xxx</p>
               <p>現在可排隊進場籌號為：xxxxxx</p>
-              <p>請各位耐心等候，謝謝。 </p>
+              <p>♡請各位耐心等候，謝謝♡ </p>
             </div>
           </div>
         </div>
