@@ -8,10 +8,10 @@
               ☾余月宴籌號進度☾
             </div>
             <div class="card-body" style="font-size: 24px;">
-              <p>現在可排隊進場籌號為：紅1-紅200</p>
+              <p>現在可排隊進場籌號為：紅1-橙100</p>
           
               <p style="font-size: 14px;">進入順序為紅, 橙, 黃, 綠, 藍, 紫</p>
-              <p style="font-size: 14px;">現階段每個籌號顏色為1至100號 </p>
+              <p style="font-size: 14px;">現階段每個籌號顏色為1至200號 </p>
        
               <p>♡請各位耐心等候，謝謝♡ </p>
               
