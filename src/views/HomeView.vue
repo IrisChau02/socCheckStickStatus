@@ -10,7 +10,6 @@
             <div class="card-body" style="font-size: 24px;">
               <p>現在可排隊進場籌號為：xxxxxx</p>
             <br>
-              <p>進入順序為紅橙黃綠藍紫</p>
               <p>進入順序為紅, 橙, 黃, 綠, 藍, 紫</p>
               <p>現階段每個籌號顏色為1至100號 </p>
               <br>
