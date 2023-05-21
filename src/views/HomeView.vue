@@ -9,12 +9,12 @@
             </div>
             <div class="card-body" style="font-size: 23px;">
               <p>現在可排隊進場籌號為：</p>
-              <p>(第一輪)R1-(第二輪)A R200</p>
+              <p>(第一輪)R1-(第二輪)A O100</p>
               <p style="font-size: 14px;">進入順序為R, O, Y, G, B, P</p>
               <p style="font-size: 14px;">每顏色籌號為1至200號 </p>
 
               <p style="font-size: 20px;">注意: 現在將會發派第二輪籌號, 工作人員會在籌號手寫英文字母</p>
-              <p style="font-size: 20px;">例如: A R11 > A R11</p>
+              <p style="font-size: 20px;">例如: R11 > A R11</p>
 
               <p>♡請各位耐心等候，謝謝♡ </p>
               
